@@ -1,0 +1,66 @@
+html {
+    font-size: 10px;
+}
+.name {
+    font-size:0.6em;
+}
+.icon {
+    margin:5px;
+}
+#css {
+    background-color:lightgray;
+    display: inline;
+    padding:2px;
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link, .nav-link:hover {
+    background-color:#422060;
+    color:#fff;
+    margin: 10px;
+}
+.nav-link {
+    color: #422060;
+    margin: 10px;
+}
+.hcode{
+    background-color:#fafafa;
+    border:1px solid #eee;
+    border-radius: 4px;
+    color:#333;
+    display:block;
+    font-size:13px;
+    line-height:1.42857143;
+    margin: 0 0 10px;
+    padding: 8px 15px;
+    word-break:break-all;
+    word-wrap:break-word;
+}
+.gridlist a {
+    border-radius: 4px;
+    color: #222;
+    display: block;
+    height: 32px;
+    line-height: 32px;
+    overflow: hidden;
+    padding-left: 10px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.gridlist a:hover {
+    background-color: #422060;
+    color: #fff;
+    text-decoration: none;
+}
+.gridlist a i{
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 10px;
+    text-align: right;
+    width: 32px;
+}
+.gridlist a:hover i{
+    font-size:28px;vertical-align:-6px
+}
+
+#styled i {
+    font-size:44px;
+}

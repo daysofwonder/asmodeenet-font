@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'dow webfont';
+  src: url('../fonts/anet-webfont.eot?v=0.0.1'); /* IE9 Compat Modes */
+  src: url('../fonts/anet-webfont.eot?#iefix&v=0.0.1') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/anet-webfont.woff2?v=0.0.1') format('woff2'), /* Modern Browsers */ url('../fonts/anet-webfont.woff?v=0.0.1') format('woff'), /* Modern Browsers */ url('../fonts/anet-webfont.ttf?v=0.0.1') format('truetype'), /* Safari, Android, iOS */ url('../fonts/anet-webfont.svg?v=0.0.1') format('svg'), /* Legacy iOS */ url('../fonts/anet-webfont.otf?v=0.0.1') format('otf'); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fanet {
+  display: inline-block;
+  font-family: 'dow webfont';
+  font-style: normal;
+  font-weight: normal;
+  font-size: inherit;
+  text-rendering: auto;
+  font-size: 1.34em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.anet-achievements:before{content:'\f000';}
+.anet-advanced-online-game:before{content:'\f001';}
+.anet-aroundMe-game:before{content:'\f002';}
+.anet-boardgames:before{content:'\f003';}
+.anet-bot-swap-off:before{content:'\f004';}
+.anet-bot-swap-on:before{content:'\f005';}
+.anet-broken-link:before{content:'\f006';}
+.anet-buddies:before{content:'\f007';}
+.anet-chat-emoticons:before{content:'\f008';}
+.anet-chat-history:before{content:'\f009';}
+.anet-chat-sentences:before{content:'\f00a';}
+.anet-chat:before{content:'\f00b';}
+.anet-core-expert-games:before{content:'\f00c';}
+.anet-credits:before{content:'\f00d';}
+.anet-family-games:before{content:'\f00e';}
+.anet-featured-games:before{content:'\f00f';}
+.anet-first-player:before{content:'\f010';}
+.anet-forum:before{content:'\f011';}
+.anet-full-screen:before{content:'\f012';}
+.anet-game-log:before{content:'\f013';}
+.anet-ignored:before{content:'\f014';}
+.anet-invite-online-game:before{content:'\f015';}
+.anet-join-game:before{content:'\f016';}
+.anet-leaderboards:before{content:'\f017';}
+.anet-local-game:before{content:'\f018';}
+.anet-log-access_colored:before{content:'\f019';}
+.anet-log-access:before{content:'\f01a';}
+.anet-more-game:before{content:'\f01b';}
+.anet-music:before{content:'\f01c';}
+.anet-new-game:before{content:'\f01d';}
+.anet-news:before{content:'\f01e';}
+.anet-not-observable:before{content:'\f01f';}
+.anet-not-ranked:before{content:'\f020';}
+.anet-observable-buddies-only-hand-not-visible:before{content:'\f021';}
+.anet-observable-buddies-only-hand-visible:before{content:'\f022';}
+.anet-observable-buddies-only:before{content:'\f023';}
+.anet-observable-everybody-hand-not-visible:before{content:'\f024';}
+.anet-observable-everybody-hand-visible:before{content:'\f025';}
+.anet-observable-everybody:before{content:'\f026';}
+.anet-observe-game:before{content:'\f027';}
+.anet-online-game:before{content:'\f028';}
+.anet-play-local:before{content:'\f029';}
+.anet-play-online:before{content:'\f02a';}
+.anet-play:before{content:'\f02b';}
+.anet-player-bot:before{content:'\f02c';}
+.anet-player-clock:before{content:'\f02d';}
+.anet-player-human:before{content:'\f02e';}
+.anet-player-karma:before{content:'\f02f';}
+.anet-player-random:before{content:'\f030';}
+.anet-player-unknown:before{content:'\f031';}
+.anet-players:before{content:'\f032';}
+.anet-private:before{content:'\f033';}
+.anet-public:before{content:'\f034';}
+.anet-quick-online-game:before{content:'\f035';}
+.anet-quit:before{content:'\f036';}
+.anet-ranked:before{content:'\f037';}
+.anet-recent-players:before{content:'\f038';}
+.anet-rematch:before{content:'\f039';}
+.anet-results:before{content:'\f03a';}
+.anet-resume-game:before{content:'\f03b';}
+.anet-rules:before{content:'\f03c';}
+.anet-search:before{content:'\f03d';}
+.anet-settings:before{content:'\f03e';}
+.anet-share:before{content:'\f03f';}
+.anet-shop:before{content:'\f040';}
+.anet-sound:before{content:'\f041';}
+.anet-speed:before{content:'\f042';}
+.anet-support:before{content:'\f043';}
+.anet-tutoriel:before{content:'\f044';}
