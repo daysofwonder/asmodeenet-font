@@ -1,0 +1,25 @@
+{
+  "name": "asmodeenet-font",
+  "description": "AsmodeeNet Webfont package",
+  "main": "",
+  "authors": [
+    "F. Ruard-Dumaine"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Font",
+    "AsmodeeNet",
+    "anet",
+    "icon"
+  ],
+  "homepage": "https://github.com/daysofwonder/asmodeenet-font",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.rb",
+    "index.html"
+  ]
+}

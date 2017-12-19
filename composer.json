@@ -1,0 +1,13 @@
+{
+    "name": "daysofwonder/asmodeenet-font",
+    "description": "AsmodeeNet Webfont package",
+    "type": "component",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Florent Ruard-Dumaine",
+            "email": "florent@daysofwonder.com"
+        }
+    ],
+    "require": {}
+}

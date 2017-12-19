@@ -1,0 +1,21 @@
+{
+  "name": "asmodeenet-font",
+  "version": "0.0.1",
+  "description": "AsmodeeNet Webfont package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daysofwonder/asmodeenet-font.git"
+  },
+  "keywords": [
+    "Font",
+    "AsmodeeNet",
+    "anet",
+    "icon"
+  ],
+  "author": "F. Ruard-Dumaine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daysofwonder/asmodeenet-font/issues"
+  },
+  "homepage": "https://github.com/daysofwonder/asmodeenet-font#readme"
+}
