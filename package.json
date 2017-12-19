@@ -1,6 +1,6 @@
 {
   "name": "asmodeenet-font",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AsmodeeNet Webfont package",
   "repository": {
     "type": "git",
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/daysofwonder/asmodeenet-font/issues"
   },
-  "homepage": "https://github.com/daysofwonder/asmodeenet-font#readme"
+  "homepage": "https://github.com/daysofwonder/asmodeenet-font#readme",
+  "devDependencies": {
+    "minifier": "^0.8.1"
+  }
 }
