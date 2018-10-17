@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'dow webfont';
-  src: url('../fonts/anet-webfont.eot?v=0.0.3'); /* IE9 Compat Modes */
-  src: url('../fonts/anet-webfont.eot?#iefix&v=0.0.3') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/anet-webfont.woff2?v=0.0.3') format('woff2'), /* Modern Browsers */ url('../fonts/anet-webfont.woff?v=0.0.3') format('woff'), /* Modern Browsers */ url('../fonts/anet-webfont.ttf?v=0.0.3') format('truetype'), /* Safari, Android, iOS */ url('../fonts/anet-webfont.svg?v=0.0.3') format('svg'), /* Legacy iOS */ url('../fonts/anet-webfont.otf?v=0.0.3') format('otf'); /* Modern Browsers */
+  src: url('../fonts/anet-webfont.eot?v=0.0.5'); /* IE9 Compat Modes */
+  src: url('../fonts/anet-webfont.eot?#iefix&v=0.0.5') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/anet-webfont.woff2?v=0.0.5') format('woff2'), /* Modern Browsers */ url('../fonts/anet-webfont.woff?v=0.0.5') format('woff'), /* Modern Browsers */ url('../fonts/anet-webfont.ttf?v=0.0.5') format('truetype'), /* Safari, Android, iOS */ url('../fonts/anet-webfont.svg?v=0.0.5') format('svg'), /* Legacy iOS */ url('../fonts/anet-webfont.otf?v=0.0.5') format('otf'); /* Modern Browsers */
   font-weight: normal;
   font-style: normal;
 }
