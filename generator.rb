@@ -70,7 +70,7 @@ File.open('./index.html', 'w') do |f|
         anet-observe-game anet-online-game anet-play-local anet-play-online anet-play anet-player-bot anet-player-clock
         anet-player-human anet-player-karma anet-player-random anet-player-unknown anet-players anet-private anet-public
         anet-quick-online-game anet-quit anet-ranked anet-recent-players anet-rematch anet-results anet-resume-game anet-rules
-        anet-search anet-settings anet-share anet-shop anet-sound anet-speed anet-support anet-tutoriel
+        anet-search anet-settings anet-share anet-shop anet-sound anet-speed anet-support anet-tutoriel anet-dow anet-ffg anet-asmodee
     ].each do |css|
         vn = css.sub('anet-', '').capitalize.tr('-', ' ')
         uni = ('%x' % h).upcase
